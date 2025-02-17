@@ -25,7 +25,7 @@ contract SimpleContract with Deployable {
 
     /// Returns a static greeting message
     get fun greeting(): String {
-        return "hello world";
+        return "hello TON Hive";
     }
 
     /// Demonstrates basic arithmetic by adding two integers
