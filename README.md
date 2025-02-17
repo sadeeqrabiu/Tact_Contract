@@ -1,5 +1,15 @@
 # Tact_Contract
 
+## Getters 
+Create a Greeter smart contract that stores a greeting message and allows users to:
+
+Set a new greeting message.
+
+Retrieve the current greeting message.
+
+This contract is simple, easy to understand.
+
+Learn more: https://tact-by-example.org/03-getters
 ## Project structure
 
 -   `contracts` - source code of all the smart contracts of the project and their dependencies.
